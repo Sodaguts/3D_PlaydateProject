@@ -1,1 +1,10 @@
 # 3D_PlaydateProject
+Project Proposal - Playdate 3D Graphics Project
+
+The goal of this project is to achieve 3D rendering using the Playdate C API, building off of a previous project that utilized Playdate’s C API for Windows. Working with low-level programming has become an interest of mine over the past couple of semesters, as a result, I want to continue working with software/hardware in this way as I think it best represents the kind of work I would like to do in the future. Additionally, I want to get in the habit of writing code that can be easily extended and used in the future should I continue working on this project past the completion of this class, and I think working low-level provides a good environment to practice that.
+
+For this project, I would be using the Playdate’s C API for Windows to get programmable access to some of the Playdate’s hardware, CMake to help generate executables, as well as Visual Studio as the development environment. The previous project that I had worked on was set up using these tools so I figured that it would be best to replicate at least the setup for this. 
+
+While I have worked with the Playdate before on a similar project, the documentation (especially for Windows) is somewhat lacking when it comes to the C API. As a result, any new additions past what I worked on last semester may provide some difficulty. In addition, 3D rendering on the Playdate is unknown territory for me, while the C API provides some functionality for 3D rendering built-in, this is not thoroughly documented and from what I understand, may be difficult to get up and running efficiently on Playdate hardware, which will be the primary challenge of this project. 
+
+By the end of this semester, I hope to achieve a playable demo that showcases 3D rendering of basic primitives and potentially model loading. In addition,  I hope to develop tools throughout the process that allow for my project to easily be extended by other developers or utilized to achieve simple 3D rendering on the Playdate using C. 
